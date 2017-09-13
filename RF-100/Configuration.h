@@ -1,4 +1,4 @@
-/**
+#/**
  * Marlin 3D Printer Firmware
  * Copyright (C) 2016 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
@@ -772,7 +772,7 @@
 
 // The size of the print bed
 #define X_BED_SIZE 105
-#define Y_BED_SIZE 135
+#define Y_BED_SIZE 120
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
