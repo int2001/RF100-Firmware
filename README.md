@@ -43,7 +43,7 @@ HICTOP 3D Printer Control Board MPX.3, similar to an Arduino Mega with an integr
 
 ### Functional upgrades
 
-* The standard print bed does not make full use of the available build space, there is at least 3 cm more available in the Y dimension. This makes quite a big difference! As a temporary solution, you can clip on a larger piece of glass with paper clips.
+* The standard print bed does not make full use of the available build space, there is at least 3 cm more available in the Y dimension. This makes quite a big difference! To use the original print bed without modification, width is changed to 105mm, depth to 120mm.
 * Automatic bed leveling. Possibly a sensor like the LJC18A3 might work (to be investigated).
 * Wireless printing https://github.com/probonopd/WirelessPrinting
 
