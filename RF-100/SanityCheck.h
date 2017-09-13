@@ -1366,3 +1366,4 @@ static_assert(COUNT(sanity_arr_3) <= XYZE_N, "DEFAULT_MAX_ACCELERATION has too m
     #endif
   #endif
 #endif // SPINDLE_LASER_ENABLE
+

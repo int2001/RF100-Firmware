@@ -34,3 +34,4 @@
 void PCA9632_SetColor(const byte r, const byte g, const byte  b);
 
 #endif // __PCA9632_H__
+

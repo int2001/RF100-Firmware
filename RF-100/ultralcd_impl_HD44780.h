@@ -1533,3 +1533,4 @@ static void lcd_implementation_status_screen() {
 #endif // ULTIPANEL
 
 #endif // ULTRALCD_IMPL_HD44780_H
+

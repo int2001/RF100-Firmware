@@ -87,3 +87,4 @@ const short temptable_1[][2] PROGMEM = {
   { 1016 * OVERSAMPLENR, -10 },
   { 1020 * OVERSAMPLENR, -15 }
 };
+

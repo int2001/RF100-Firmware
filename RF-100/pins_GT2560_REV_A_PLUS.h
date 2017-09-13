@@ -30,3 +30,4 @@
 #define BOARD_NAME  "GT2560 Rev.A+"
 
 #define SERVO0_PIN  11
+

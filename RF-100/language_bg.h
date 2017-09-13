@@ -141,3 +141,4 @@
 #define MSG_DELTA_CALIBRATE_CENTER          _UxGT("Калибровка Център")
 
 #endif // LANGUAGE_BG_H
+

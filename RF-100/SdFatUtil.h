@@ -54,3 +54,4 @@ using namespace SdFatUtil;  // NOLINT
 #endif // SDSUPPORT
 
 #endif // SdFatUtil_h
+

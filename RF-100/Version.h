@@ -92,3 +92,4 @@
   #define WEBSITE_URL "http://marlinfw.org"
 
 #endif // USE_AUTOMATIC_VERSIONING
+

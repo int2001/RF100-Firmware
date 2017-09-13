@@ -246,3 +246,4 @@
 #endif // LCD_HEIGHT < 4
 
 #endif // LANGUAGE_HR_H
+

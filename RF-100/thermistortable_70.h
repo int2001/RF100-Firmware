@@ -84,3 +84,4 @@ const short temptable_70[][2] PROGMEM = {
   { 1005 * OVERSAMPLENR,   5 },
   { 1009 * OVERSAMPLENR,   0 } // safety
 };
+

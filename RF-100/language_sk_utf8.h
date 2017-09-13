@@ -352,3 +352,4 @@
 #endif // LCD_HEIGHT < 4
 
 #endif // LANGUAGE_SK_UTF_H
+

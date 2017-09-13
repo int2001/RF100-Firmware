@@ -935,3 +935,4 @@
 #endif // LCD_HEIGHT < 4
 
 #endif // LANGUAGE_EN_H
+

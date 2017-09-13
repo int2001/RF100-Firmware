@@ -2134,3 +2134,4 @@ void Temperature::isr() {
   in_temp_isr = false;
   SBI(TIMSK0, OCIE0B); //re-enable Temperature ISR
 }
+

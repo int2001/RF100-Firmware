@@ -679,3 +679,4 @@
 #define PF7_DDR     DDRF
 
 #endif // _FASTIO_AT90USB
+

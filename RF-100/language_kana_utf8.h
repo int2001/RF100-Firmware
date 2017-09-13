@@ -223,3 +223,4 @@
 #define MSG_FILAMENT_CHANGE_RESUME_2        _UxGT("シバラクオマチクダサイ")            // "to resume"
 
 #endif // LANGUAGE_KANA_UTF_H
+

@@ -357,3 +357,4 @@
 
 #endif //I2C_POSITION_ENCODERS
 #endif //I2CPOSENC_H
+

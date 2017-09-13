@@ -170,3 +170,4 @@
 #define MSG_DELTA_CALIBRATE_CENTER          _UxGT("Calibrar Centro")
 
 #endif // LANGUAGE_PT_BR_UTF_H
+

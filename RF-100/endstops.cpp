@@ -449,3 +449,4 @@ void Endstops::update() {
   old_endstop_bits = current_endstop_bits;
 
 } // Endstops::update()
+

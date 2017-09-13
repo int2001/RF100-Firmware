@@ -236,3 +236,4 @@
 #endif // LCD_HEIGHT < 4
 
 #endif // LANGUAGE_ZH_TW_H
+

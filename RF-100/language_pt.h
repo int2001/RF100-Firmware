@@ -175,3 +175,4 @@
 #define MSG_LCD_ENDSTOPS                    "Fim de curso"
 
 #endif // LANGUAGE_PT_H
+

@@ -1709,3 +1709,4 @@ void Stepper::report_positions() {
   }
 
 #endif // HAS_MICROSTEPS
+
