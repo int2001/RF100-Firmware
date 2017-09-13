@@ -52,6 +52,7 @@
 // ca         Catalan
 // cn         Chinese
 // cz         Czech
+// cz_utf8    Czech (UTF8)
 // de         German
 // el         Greek
 // el-gr      Greek (Greece)
@@ -69,11 +70,14 @@
 // pl         Polish
 // pt         Portuguese
 // pt-br      Portuguese (Brazilian)
-// pt-br_utf8 Portuguese (Brazilian UTF8)
+// pt-br_utf8 Portuguese (Brazilian) (UTF8)
 // pt_utf8    Portuguese (UTF8)
 // ru         Russian
+// sk         Slovak (UTF8)
 // tr         Turkish
 // uk         Ukrainian
+// zh_CN      Chinese (Simplified)
+// zh_TW      Chinese (Taiwan)
 
 #ifdef DEFAULT_SOURCE_CODE_URL
   #undef  SOURCE_CODE_URL
@@ -299,7 +303,9 @@
  && DISABLED(DISPLAY_CHARSET_ISO10646_GREEK) \
  && DISABLED(DISPLAY_CHARSET_ISO10646_CN) \
  && DISABLED(DISPLAY_CHARSET_ISO10646_TR) \
- && DISABLED(DISPLAY_CHARSET_ISO10646_PL)
+ && DISABLED(DISPLAY_CHARSET_ISO10646_PL) \
+ && DISABLED(DISPLAY_CHARSET_ISO10646_CZ) \
+ && DISABLED(DISPLAY_CHARSET_ISO10646_SK)
   #define DISPLAY_CHARSET_ISO10646_1 // use the better font on full graphic displays.
 #endif
 

@@ -1,4 +1,4 @@
-# Renkforce RF100 Community Firmware [![Build Status](https://travis-ci.org/probonopd/RF100-Firmware.svg?branch=community)](https://travis-ci.org/probonopd/RF100-Firmware)
+# Renkforce RF100 Community Firmware
 
 Community-based Marlin firmware configured for the Conrad Electronic Renkforce RF100
 
@@ -6,9 +6,9 @@ Community-based Marlin firmware configured for the Conrad Electronic Renkforce R
 
 ## What is this?
 
-This is a recent version or Marlin 1.1.3 configured by the community for the RF100. The printer originally comes with an outdated version of Marlin. This one is much more recent, and contains the following optimizations:
+This is a recent version or Marlin 1.1.5 configured by the community for the RF100. The printer originally comes with an outdated version of Marlin. This one is much more recent, and contains the following optimizations:
 
-- It has the Marlin 1.1.3 features and bugfixes
+- It has the Marlin 1.1.5 features and bugfixes
 - It can be compiled and uploaded with the latest Arduino 1.8.x versions
 - The direction ef the knob is corrected. Turning it clockwise scrolls down in the menu
 - The sensitivity of the knob is improved
