@@ -13,7 +13,7 @@ This is a recent version or Marlin 1.1.5 configured by the community for the RF1
 - The direction of the knob is corrected. Turning it clockwise scrolls down in the menu
 - The sensitivity of the knob is improved
 - You can now use the knob for bed-levelling rather than just the screws (I use the screws anyway)
-- The printable area is significantly increased to 105x120x100.
+- The printable area is significantly increased to 105x110x100.
 
 ## How do I use this?
 
@@ -43,7 +43,7 @@ HICTOP 3D Printer Control Board MPX.3, similar to an Arduino Mega with an integr
 
 ### Functional upgrades
 
-* The standard print bed does not make full use of the available build space, there is at least 3 cm more available in the Y dimension. This makes quite a big difference! To use the original print bed without modification, width is changed to 105mm, depth to 120mm.
+* The standard print bed does not make full use of the available build space, there is at least 3 cm more available in the Y dimension. This makes quite a big difference! To use the original print bed without modification, width is changed to 105mm, depth to 110mm.
 * Automatic bed leveling. Possibly a sensor like the LJC18A3 might work (to be investigated).
 * Wireless printing https://github.com/probonopd/WirelessPrinting
 
