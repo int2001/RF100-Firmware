@@ -128,7 +128,7 @@
 // Define this to set a unique identifier for this printer, (Used by some programs to differentiate between machines)
 // You can use an online service to generate a random UUID. (eg http://www.uuidgenerator.net/version4)
 //#define MACHINE_UUID "00000000-0000-0000-0000-000000000000"
-#define MACHINE_UUID "6ef46fb1-6bf6-423d-a758-8b59820640eb"
+//#define MACHINE_UUID "6ef46fb1-6bf6-423d-a758-8b59820640eb"
 
 // @section extruder
 
