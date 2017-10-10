@@ -43,4 +43,3 @@ const short temptable_4[][2] PROGMEM = {
   {  955 * OVERSAMPLENR, -11 },
   { 1008 * OVERSAMPLENR, -35 }
 };
-

@@ -48,4 +48,3 @@
 #define SPINDLE_DIR_PIN          19
 
 #include "pins_RAMPS.h"
-

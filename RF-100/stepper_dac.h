@@ -55,4 +55,3 @@ uint8_t dac_current_get_percent(AxisEnum axis);
 void dac_current_set_percents(const uint8_t pct[XYZE]);
 
 #endif // STEPPER_DAC_H
-

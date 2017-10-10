@@ -115,4 +115,3 @@ void PCA9632_SetColor(const byte r, const byte g, const byte b) {
 }
 
 #endif // PCA9632
-

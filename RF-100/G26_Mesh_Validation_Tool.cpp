@@ -136,13 +136,8 @@
   extern float destination[XYZE];
   void set_destination_to_current();
   void prepare_move_to_destination();
-  #if AVR_AT90USB1286_FAMILY  // Teensyduino & Printrboard IDE extensions have compile errors without this
-    inline void sync_plan_position_e() { planner.set_e_position_mm(current_position[E_AXIS]); }
-    inline void set_current_to_destination() { COPY(current_position, destination); }
-  #else
-    void sync_plan_position_e();
-    void set_current_to_destination();
-  #endif
+  inline void sync_plan_position_e() { planner.set_e_position_mm(current_position[E_AXIS]); }
+  inline void set_current_to_destination() { COPY(current_position, destination); }
   #if ENABLED(NEWPANEL)
     void lcd_setstatusPGM(const char* const message, const int8_t level);
     void chirp_at_user();
@@ -890,4 +885,3 @@
   }
 
 #endif // AUTO_BED_LEVELING_UBL && UBL_G26_MESH_VALIDATION
-

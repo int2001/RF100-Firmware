@@ -236,4 +236,3 @@ void Nozzle::park(
 
   #endif // NOZZLE_PARK_FEATURE
 }
-

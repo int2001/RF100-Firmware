@@ -50,6 +50,9 @@
 //
 // LCD / Controller
 //
+#undef STAT_LED_RED_PIN
+#undef STAT_LED_BLUE_PIN
+
 #if ENABLED(VIKI2) || ENABLED(miniVIKI)
 
   #undef DOGLCD_A0
@@ -59,8 +62,6 @@
   #define DOGLCD_CS         32
   #define BTN_ENC           12
 
-  #undef STAT_LED_RED_PIN
-  #undef STAT_LED_BLUE_PIN
   #define STAT_LED_RED_PIN  64
   #define STAT_LED_BLUE_PIN 63
 
@@ -96,4 +97,3 @@
   #define SPINDLE_LASER_ENABLE_PIN 20  // Pin should have a pullup!
   #define SPINDLE_DIR_PIN          21
 #endif
-

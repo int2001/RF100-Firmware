@@ -120,10 +120,10 @@ private:
           char **sortshort, **sortnames;
         #else
           char sortshort[SDSORT_LIMIT][FILENAME_LENGTH];
-          char sortnames[SDSORT_LIMIT][FILENAME_LENGTH];
+          char sortnames[SDSORT_LIMIT][LONG_FILENAME_LENGTH];
         #endif
       #elif DISABLED(SDSORT_USES_STACK)
-        char sortnames[SDSORT_LIMIT][FILENAME_LENGTH];
+        char sortnames[SDSORT_LIMIT][LONG_FILENAME_LENGTH];
       #endif
 
       // Folder sorting uses an isDir array when caching items.
@@ -188,4 +188,3 @@ extern CardReader card;
 #endif // SDSUPPORT
 
 #endif // __CARDREADER_H
-

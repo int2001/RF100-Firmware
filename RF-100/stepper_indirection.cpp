@@ -336,4 +336,3 @@
 
 #endif // HAVE_L6470DRIVER
 
-

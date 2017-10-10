@@ -168,4 +168,3 @@
   #define SPINDLE_DIR_PIN          21
 #endif
 
-

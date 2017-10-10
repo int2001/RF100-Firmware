@@ -204,4 +204,3 @@ void setup_endstop_interrupts( void ) {
 }
 
 #endif // _ENDSTOP_INTERRUPTS_H_
-

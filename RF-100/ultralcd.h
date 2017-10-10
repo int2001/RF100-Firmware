@@ -202,4 +202,3 @@ void lcd_reset_status();
 #endif
 
 #endif // ULTRALCD_H
-

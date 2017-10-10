@@ -58,4 +58,3 @@ const short temptable_5[][2] PROGMEM = {
   { 1000 * OVERSAMPLENR,  10 },
   { 1010 * OVERSAMPLENR,   0 }
 };
-

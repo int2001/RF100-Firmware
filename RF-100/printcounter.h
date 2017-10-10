@@ -173,4 +173,3 @@ class PrintCounter: public Stopwatch {
 };
 
 #endif // PRINTCOUNTER_H
-

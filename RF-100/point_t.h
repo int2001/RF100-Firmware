@@ -75,4 +75,3 @@ struct point_t {
 };
 
 #endif // __POINT_T__
-

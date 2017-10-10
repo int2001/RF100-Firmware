@@ -331,4 +331,3 @@ const uint8_t PROGMEM digital_pin_to_timer_PGM[] = {
         NOT_ON_TIMER    , // PE 6 ** 79 **
 };
 */
-

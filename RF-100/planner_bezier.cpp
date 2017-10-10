@@ -192,4 +192,3 @@ void cubic_b_spline(const float position[NUM_AXIS], const float target[NUM_AXIS]
 }
 
 #endif // BEZIER_CURVE_SUPPORT
-

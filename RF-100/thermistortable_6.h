@@ -61,4 +61,3 @@ const short temptable_6[][2] PROGMEM = {
   { 1008 * OVERSAMPLENR,   3 },
   { 1023 * OVERSAMPLENR,   0 } // to allow internal 0 degrees C
 };
-

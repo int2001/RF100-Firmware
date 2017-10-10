@@ -280,4 +280,3 @@ void GCodeParser::unknown_command_error() {
   }
 
 #endif // DEBUG_GCODE_PARSER
-

@@ -26,4 +26,3 @@
 
 #define BOARD_NAME "STB V1.1"
 #include "pins_SANGUINOLOLU_12.h"
-

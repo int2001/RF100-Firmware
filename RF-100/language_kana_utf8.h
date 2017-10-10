@@ -25,7 +25,7 @@
  * UTF-8 for Graphical Display
  *
  * LCD Menu Messages
- * See also https://github.com/MarlinFirmware/Marlin/wiki/LCD-Language
+ * See also http://marlinfw.org/docs/development/lcd_language.html
  *
  */
 
@@ -223,4 +223,3 @@
 #define MSG_FILAMENT_CHANGE_RESUME_2        _UxGT("シバラクオマチクダサイ")            // "to resume"
 
 #endif // LANGUAGE_KANA_UTF_H
-

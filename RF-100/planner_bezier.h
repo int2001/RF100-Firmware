@@ -41,4 +41,3 @@ void cubic_b_spline(
             );
 
 #endif // PLANNER_BEZIER_H
-

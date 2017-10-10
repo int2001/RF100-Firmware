@@ -54,4 +54,3 @@ void watchdog_init() {
 #endif // WATCHDOG_RESET_MANUAL
 
 #endif // USE_WATCHDOG
-

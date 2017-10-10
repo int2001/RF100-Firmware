@@ -158,4 +158,3 @@ void matrix_3x3::debug(const char * const title) {
 
 #endif // HAS_ABL
 
-

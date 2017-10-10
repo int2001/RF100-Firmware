@@ -130,4 +130,3 @@
 // Misc. Functions
 //
 #define SDSS               20   // B0
-

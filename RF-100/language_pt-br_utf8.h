@@ -25,7 +25,7 @@
  * UTF-8 for Graphical Display
  *
  * LCD Menu Messages
- * See also https://github.com/MarlinFirmware/Marlin/wiki/LCD-Language
+ * See also http://marlinfw.org/docs/development/lcd_language.html
  *
  */
 #ifndef LANGUAGE_PT_BR_UTF_H
@@ -170,4 +170,3 @@
 #define MSG_DELTA_CALIBRATE_CENTER          _UxGT("Calibrar Centro")
 
 #endif // LANGUAGE_PT_BR_UTF_H
-

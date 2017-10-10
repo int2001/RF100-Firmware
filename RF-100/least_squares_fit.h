@@ -88,4 +88,3 @@ int finish_incremental_LSF(struct linear_fit_data *);
 
 #endif
 
-

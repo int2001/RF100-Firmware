@@ -246,4 +246,3 @@
 #endif
 
 #endif // THERMISTORTABLES_H_
-

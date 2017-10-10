@@ -24,7 +24,7 @@
  * Aragonese
  *
  * LCD Menu Messages
- * See also https://github.com/MarlinFirmware/Marlin/wiki/LCD-Language
+ * See also http://marlinfw.org/docs/development/lcd_language.html
  *
  */
 #ifndef LANGUAGE_AN_H
@@ -251,4 +251,3 @@
 #define MSG_FILAMENT_CHANGE_RESUME_2        _UxGT("pa continar")
 
 #endif // LANGUAGE_AN_H
-
