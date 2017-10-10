@@ -6,9 +6,9 @@ Community-based Marlin firmware configured for the Conrad Electronic Renkforce R
 
 ## What is this?
 
-This is a recent version of Marlin 1.1.5 configured by the community for the RF100. The printer originally comes with an outdated version of Marlin. This one is much more recent, and contains the following optimizations:
+This is a recent version of Marlin 1.1.6 configured by the community for the RF100. The printer originally comes with an outdated version of Marlin. This one is much more recent, and contains the following optimizations:
 
-- It has the Marlin 1.1.5 features and bugfixes
+- It has the Marlin 1.1.6 features and bugfixes
 - It can be compiled and uploaded with the latest Arduino 1.8.x versions
 - The direction of the knob is corrected.
 - The sensitivity of the knob is improved
@@ -43,7 +43,7 @@ HICTOP 3D Printer Control Board MPX.3, similar to an Arduino Mega with an integr
 
 ### Functional upgrades
 
-* The standard print bed does not make full use of the available build space, there is at least 3 cm more available in the Y dimension. This makes quite a big difference! To use the original print bed without modification, width is changed to 105mm, depth to 110mm, height to 110mm.
+* The standard print bed does not make full use of the available build space, there is at least 3 cm more available in the Y dimension. This makes quite a big difference! To use the original print bed without modification, width is changed to 110mm, depth to 110mm, height to 110mm.
 * Automatic bed leveling. Possibly a sensor like the LJC18A3 might work (to be investigated).
 * Wireless printing https://github.com/probonopd/WirelessPrinting
 
