@@ -43,6 +43,9 @@ HICTOP 3D Printer Control Board MPX.3, similar to an Arduino Mega with an integr
 
 ### Functional upgrades
 
+* Printout Debug Information for HotEnd (Thermistor) on M109
+* Printout last reading of Thermistor before System halts on "MAX_TEMP_REACHED" (Nice for debugging the Thermistor)
+* Added "Load Filmament // Unload Filmament // Feed Filmament" to Prepare-Menu
 * The standard print bed does not make full use of the available build space, there is at least 3 cm more available in the Y dimension. This makes quite a big difference! To use the original print bed without modification, width is changed to 110mm, depth to 110mm, height to 110mm.
 * Automatic bed leveling. Possibly a sensor like the LJC18A3 might work (to be investigated).
 * Wireless printing https://github.com/probonopd/WirelessPrinting
